@@ -1,2 +1,0 @@
-arquillian-test-example
-=======================
